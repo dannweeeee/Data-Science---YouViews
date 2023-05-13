@@ -3,6 +3,6 @@
 ## Built a YouTube Data Analytics tool <br>
 YouView is a tool for YouTube content creators to optimise their videos and grow their channels based on views. <br>
 <br>
-Coding Language: **Python (Jupyter Notebook)**
+Coding Language: **Python (Jupyter Notebook)** <br>
 <br>
 Video Presentation - https://youtu.be/4MVRWMz7Xnc
